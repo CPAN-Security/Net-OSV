@@ -1,6 +1,6 @@
 ## Net::OSV
 
-Perl interface to the L<< Open Source Vulnerabilities Database (OSV) | https://osv.dev/ >>, allowing developers to search and retrieve vulnerability and security advisory information from many open source projects and ecosystems.
+Perl interface to the [Open Source Vulnerabilities Database (OSV)](https://osv.dev/), allowing developers to search and retrieve vulnerability and security advisory information from many open source projects and ecosystems.
 
 ```perl
     use Net::OSV;
