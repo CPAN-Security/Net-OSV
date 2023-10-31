@@ -69,7 +69,7 @@ Net::OSV - search known vulnerabilities on the Open Source Vulnerabilities Datab
 
 =head1 DESCRIPTION
 
-This modules provides a Perl interface to the L<< Open Source Vulnerabilities Database (OSV) | https://osv.dev/ >>, allowing developers to search and retrieve vulnerability and security advisory information from many open source projects and ecosystems.
+This modules provides a Perl interface to the L<< Open Source Vulnerabilities Database (OSV)|https://osv.dev/ >>, allowing developers to search and retrieve vulnerability and security advisory information from many open source projects and ecosystems.
 
 =head1 METHODS
 
